@@ -1,2 +1,2 @@
 # testingITC
-SANA ALL
+SANA ALL SMOOTH
